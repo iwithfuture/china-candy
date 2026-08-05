@@ -1,0 +1,409 @@
+{
+  "pages": [
+    {
+      "slug": "lechao-candy-showroom",
+      "title": "VR Showroom",
+      "excerpt": ""
+    },
+    {
+      "slug": "lechao-candy-brand-story",
+      "title": "Brand Story",
+      "excerpt": ""
+    },
+    {
+      "slug": "blogs-news",
+      "title": "Blogs & News",
+      "excerpt": ""
+    },
+    {
+      "slug": "contact",
+      "title": "Contact",
+      "excerpt": ""
+    },
+    {
+      "slug": "candy-manufacturing-capability",
+      "title": "Capability",
+      "excerpt": ""
+    },
+    {
+      "slug": "soft-candy-supplier",
+      "title": "Market",
+      "excerpt": ""
+    },
+    {
+      "slug": "custom-candy-manufacturer",
+      "title": "Custom Service",
+      "excerpt": ""
+    },
+    {
+      "slug": "candy-manufacturing-company",
+      "title": "About",
+      "excerpt": ""
+    },
+    {
+      "slug": "wholesale-candy-supplier",
+      "title": "Products",
+      "excerpt": ""
+    }
+  ],
+  "categories": [
+    {
+      "slug": "3d-gummy-candy-manufacturer",
+      "name": "3D/4D Gummy Candy",
+      "count": 25,
+      "description": "As a professional gummy candy manufacturer since 1991, LeChao specializes in the production and wholesale of 3D/4D fruit and animal shaped gummy candies, which are three-dimensional and lifelike, colorful and delicious. We support full customization, including flavor, color, shape and packaging design.",
+      "parent": 19
+    },
+    {
+      "slug": "marshmallows-wholesale",
+      "name": "Candy Coated Marshmallows",
+      "count": 1,
+      "description": "LeChao is a trusted candy coated marshmallows wholesale supplier. Each piece features a soft, fluffy marshmallow center wrapped in a crunchy, colorful candy shell, creating a delightful texture contrast. Custom packaging and formulation options are available to meet your brand's unique needs.",
+      "parent": 22
+    },
+    {
+      "slug": "wholesale-chocolate-candy",
+      "name": "Chocolate Candy",
+      "count": 7,
+      "description": "As a leading manufacturer of wholesale chocolate candy and chocolate-covered gummies, LeChao offers a wide range of delicious treats in bulk. From creamy milk chocolates to fruity gummies coated in rich chocolate, we provide full customizable options for your brand.",
+      "parent": 0
+    },
+    {
+      "slug": "filled-gummy-candies-supplier",
+      "name": "Filled Gummy",
+      "count": 12,
+      "description": "As a professional jam-filled gummy candies supplier, LeChao provides a variety of jam-filled gummy candies with rich flavors, chewy outside and smooth inside, which are widely welcomed by the market. We can develop exclusive flavors and shapes according to customer needs, and support OEM/ODM services.",
+      "parent": 19
+    },
+    {
+      "slug": "wholesale-gummy-manufacturer",
+      "name": "Gummy Candy",
+      "count": 161,
+      "description": "As a professional wholesale gummy manufacturer, LeChao provides a wide variety of wholesale gummy candies, including classic bears, 3D/4D, jam-filled, sugar-coated, and sour gummy candies, etc. We support customization of color, flavor, shape, packaging, etc.",
+      "parent": 0
+    },
+    {
+      "slug": "jelly-bean-wholesale",
+      "name": "Jelly Bean",
+      "count": 6,
+      "description": "LeChao is a professional fruity jelly bean wholesale supplier, providing a wide range of colors and flavors, and customizable mixed flavor combinations. Our wholesale jelly beans are crispy on the outside and soft on the inside, with a rich taste, suitable for a variety of sales scenarios such as shopping malls, retail, and candy stations.",
+      "parent": 0
+    },
+    {
+      "slug": "bulk-licorice-candy",
+      "name": "Licorice Candy",
+      "count": 17,
+      "description": "LeChao provides a variety of bulk licorice candy, covering wholesale sweet and sour licorice belts, twist sour candy, soft-filled licorice bite with a chewy texture and unique flavor. It supports personalized customization of color, flavor, size, and packaging to meet a variety of consumer preferences.",
+      "parent": 0
+    },
+    {
+      "slug": "wholesale-marshmallows",
+      "name": "Marshmallow",
+      "count": 21,
+      "description": "LeChao is a professional marshmallow manufacturer, providing a wide variety of wholesale marshmallows, including classic twists, jam fillings, sugar-coated marshmallows, etc. We support halal certification and low sugar ratios to meet the needs of different markets and consumer groups.",
+      "parent": 0
+    },
+    {
+      "slug": "marshmallow-twists-bulk",
+      "name": "Marshmallow Twists",
+      "count": 5,
+      "description": "Soft, colorful, and irresistibly fluffy, LeChao's marshmallow twists bulk are perfect for parties, gift packaging, and private label projects. Available in various pastel colors and sizes. Ideal for wholesale buyers looking for customizable, eye-catching treats.",
+      "parent": 22
+    },
+    {
+      "slug": "wholesale-nonpareils-gummy",
+      "name": "Nonpareils Gummy",
+      "count": 8,
+      "description": "Leading wholesale nonpareils gummy supplier offering high-quality gummy berries and clusters. We provide diverse flavors, bulk packaging options, and reliable supply chain solutions for your candy business.",
+      "parent": 19
+    },
+    {
+      "slug": "peelable-gummy-candy-supplier",
+      "name": "Peeled Gummy Candy",
+      "count": 7,
+      "description": "LeChao is a creative peelable gummy candy supplier and manufacturer. Our products are realistic in appearance, fun and interesting, with a chewy texture and fruity taste. We support customized colors, flavors, sizes and packaging designs to help your brand stand out.",
+      "parent": 19
+    },
+    {
+      "slug": "bulk-sour-gummies",
+      "name": "Sour Gummy Candy",
+      "count": 30,
+      "description": "LeChao offers a wide variety of bulk sour gummies, which are coated with sour powder on the outside to bring a double taste experience that stimulates the taste buds. We produce wholesale and bulk sour gummies in a variety of shapes and flavors, which are widely used in supermarket retail, bulk sales, holiday gift packs and brand customization.",
+      "parent": 19
+    }
+  ],
+  "posts": [
+    {
+      "slug": "fun-facts-about-jelly-beans",
+      "title": "10 Fun Facts About Jelly Beans You Probably Didn’t Know",
+      "excerpt": "Jelly beans may look simple—small, shiny, and sweet—but behind each tiny bean is a surprisingly rich history of innovation, culture, and candy science. They’ve been around for over a century and continue to evolve in ways most people never notice. Here are 10 fun facts that reveal a much more interesting side of this colorful [&hellip;]",
+      "date": "2026-07-03"
+    },
+    {
+      "slug": "why-gummy-candy-has-become-so-popular-around-the-world",
+      "title": "Why Gummy Candy Has Become So Popular Around the World",
+      "excerpt": "Gummy candy has moved far beyond being a simple childhood treat. Today, it’s a global snack category enjoyed by all age groups, from kids to adults seeking comfort, flavor variety, or even functional health benefits. But what exactly makes gummy candy so universally loved? Let’s break it down. A Perfect Balance of Texture and Taste [&hellip;]",
+      "date": "2026-07-01"
+    },
+    {
+      "slug": "bulk-candy-private-label-candy-for-your-brand",
+      "title": "Bulk Candy vs Private Label Candy: Which Is Better for Your Business?",
+      "excerpt": "When sourcing candy for your business, one of the first decisions you'll face is whether to purchase bulk candy or invest in private label products. Both options have advantages, but the right choice depends on your business model, budget, target customers, and long-term goals. For some businesses, buying ready-made candy in bulk is the fastest [&hellip;]",
+      "date": "2026-06-26"
+    },
+    {
+      "slug": "how-to-choose-a-wholesale-candy-supplier",
+      "title": "How to Choose a Wholesale Candy Supplier for Your Brand",
+      "excerpt": "Choosing the right wholesale candy supplier is one of the most important decisions for any candy business. Whether you operate a retail chain, supermarket, online store, import business, or private label brand, your supplier directly influences product quality, customer satisfaction, profit margins, and long-term growth. While price is often the first factor",
+      "date": "2026-06-25"
+    },
+    {
+      "slug": "peelable-gummy-candy-creates-a-fun-experience",
+      "title": "How Peelable Gummy Candy Creates a Fun Snacking Experience",
+      "excerpt": "Candy is no longer only about sweetness. Today’s consumers are looking for products that feel playful, surprising, and easy to share. This is why peelable gummy candy has become an exciting product direction in the gummy candy market. Unlike regular gummies that are simply chewed and finished, peelable gummy candy adds an extra step of [&hellip;]",
+      "date": "2026-06-21"
+    },
+    {
+      "slug": "top-gummy-candy-trends-2026",
+      "title": "Top Gummy Candy Trends in 2026: What Candy Brands Should Know",
+      "excerpt": "The broader sugar confectionery market continues to grow. According to Mordor Intelligence, the global sugar confectionery market is projected to reach USD 64.12 billion in 2026 and USD 86.66 billion by 2031. The report also notes that pastilles, gummies, and jellies led the sugar confectionery category by product type in 2025. For businesses planning new [&",
+      "date": "2026-06-21"
+    },
+    {
+      "slug": "why-southeast-asian-brands-source-candy-from-china",
+      "title": "Is It Cost-Effective for Southeast Asian Brands to Source Candies from China?",
+      "excerpt": "For many Southeast Asian candy brands, importers, distributors, and private-label companies, China has become one of the most practical sourcing destinations for confectionery products. From gummy candies and hard candies to marshmallows, chewy candies, lollipops, jelly candies, and novelty sweets, Chinese candy manufacturers offer a wide product range with ",
+      "date": "2026-06-21"
+    },
+    {
+      "slug": "what-certifications-should-a-gummy-candy-factory-have",
+      "title": "What Certifications Should a Gummy Candy Factory Have? | Complete Guide from a Candy Manufacturer",
+      "excerpt": "Choosing the right candy manufacturer is one of the most important decisions for any confectionery brand, wholesaler, importer, or retailer. While product quality and pricing matter, certifications are equally critical because they demonstrate a manufacturer's commitment to food safety, quality management, and international compliance. Whether you're launchi",
+      "date": "2026-06-21"
+    },
+    {
+      "slug": "gummy-candy-import-documents-checklist",
+      "title": "What Documents Are Needed to Import Gummy Candy? Checklist for Buyers",
+      "excerpt": "Importing gummy candy is not only about choosing the right product, flavor, and packaging. For global buyers, import documents are also an important part of the sourcing process. Missing or incorrect documents may lead to customs delays, extra inspection, storage fees, or even shipment rejection. For candy importers, distributors, wholesalers, and private la",
+      "date": "2026-06-02"
+    },
+    {
+      "slug": "why-gummy-candies-become-sticky-in-transit",
+      "title": "Sticky Gummy Candies After Shipping? Causes & Solutions for Candy Brands",
+      "excerpt": "Gummy candies are highly sensitive to temperature, humidity, and packaging conditions during transportation. A gummy product may look perfect when it leaves the factory, but after long-distance shipping or warehouse storage, it can become sticky, clump together, or lose its original texture. For candy brands, importers, and distributors, understanding the ca",
+      "date": "2026-06-02"
+    },
+    {
+      "slug": "export-documentation-for-gummy-candies",
+      "title": "Gummy Candy & Marshmallow Export Documentation Guide (2026 Checklist)",
+      "excerpt": "Exporting gummy candy and marshmallow products internationally requires far more than simply manufacturing and shipping the goods. Food products are heavily regulated in most countries, and incomplete export documentation can easily result in customs delays, cargo inspections, relabeling costs, or shipment rejection. For candy importers, wholesalers, superma",
+      "date": "2026-05-26"
+    },
+    {
+      "slug": "how-to-start-a-private-label-gummy-candy-brand",
+      "title": "Ultimate Guide to Starting a Private Label Gummy Candy Brand",
+      "excerpt": "Launching a private label gummy candy brand has become one of the most attractive opportunities in the confectionery industry. Consumers are looking for unique flavors, eye-catching shapes, functional ingredients, and memorable packaging experiences. At the same time, retailers, eCommerce sellers, supermarkets, and lifestyle brands are actively expanding the",
+      "date": "2026-05-26"
+    },
+    {
+      "slug": "oem-vs-private-label-candy",
+      "title": "OEM vs Private Label Candy Manufacturing: Key Differences, Pros & Cons",
+      "excerpt": "OEM candy allows full product customization from recipe to packaging, while private label candy offers ready-made products that you simply brand and sell. The right choice depends on your budget, speed to market, and product differentiation goals. In the global confectionery industry, brands often face a key decision when working with manufacturers: should y",
+      "date": "2026-05-19"
+    },
+    {
+      "slug": "sugar-coated-vs-oil-coated-gummies",
+      "title": "Sugar Coated vs Oil Coated Gummies: Which Gummy is Best for Your Market?",
+      "excerpt": "Sugar Coated Gummies and Oil Coated Gummies are the two most common types of coated gummies on the market today. Each offers unique advantages in texture, appearance, packaging stability, transportation performance, and consumer preference. This guide explores the pros and cons of both coated gummies styles to help candy brands, importers, and OEM buyers cho",
+      "date": "2026-05-19"
+    },
+    {
+      "slug": "top-5-gummy-candy-flavors-in-the-us",
+      "title": "Sourcing the Top 5 Gummy Candy Flavors for the US Market: A Data-Driven Guide",
+      "excerpt": "When penetrating the US gummy candy supply chain—the largest confectionery consumer market globally—gummy candy flavor selection cannot rely on guesswork. Sourcing decisions must be guided by precise market data. Recent industry research reveals that fruit profiles heavily dominate the US gummy market, commanding a massive 48% to 52% market share. Concurrent",
+      "date": "2026-05-12"
+    },
+    {
+      "slug": "where-do-candy-sellers-get-their-candy",
+      "title": "Where Do Candy Sellers Get Their Candy? A Strategic Sourcing Guide for Confectionery Retailers & Brands",
+      "excerpt": "The global confectionery market is thriving, but for a candy business, success comes down to one critical factor: your supply chain. Whether you run a boutique candy shop, an e-commerce brand, or a regional distribution network, where you buy your inventory dictates your profit margins, product freshness, and brand reputation. Candy sellers don't all source ",
+      "date": "2026-05-12"
+    },
+    {
+      "slug": "aerated-gummies",
+      "title": "The Rise of Aerated Gummies: Sourcing the &#8220;Cloud-Like&#8221; Marshmallow Texture",
+      "excerpt": "In the competitive gummy candy supply market, product differentiation often comes down to &#8220;textural contrast.&#8221; One of the most successful categories in recent years is the Aerated Gummies—a hybrid candy that offers the bouncy, foam-like mouthfeel of a marshmallow combined with the intense flavor of a classic fruit gummy. Understanding the technic",
+      "date": "2026-04-30"
+    },
+    {
+      "slug": "global-gummy-candy-supply-chain",
+      "title": "Global Gummy Candy Supply Chain: China vs. SE Asia vs. Turkey Compared",
+      "excerpt": "Navigating the Gummy Candy Supply Chain: Regional Strengths and Manufacturing Differences For global confectionery importers and brand owners, choosing the right sourcing hub is no longer just about the lowest price per kilogram. In 2026, the gummy candy supply landscape is defined by a trifecta of regional specializations: China’s massive integrated scale, ",
+      "date": "2026-04-29"
+    },
+    {
+      "slug": "gummy-candy-market-trends-2034",
+      "title": "Gummy Candy Market Trends 2034 & Product Development Guide",
+      "excerpt": "In the global snack industry, Gummy Candy is undergoing an unprecedented &#8220;evolution.&#8221; According to the latest industry report, &lt;Gummy Candy Market Research Report 2034>, the global market is projected to surpass $120 billion by 2034. For brand owners, this represents more than just a numerical increase—it is a complete restructuring of consume",
+      "date": "2026-04-28"
+    },
+    {
+      "slug": "gummy-candy-preferences",
+      "title": "Gummy Candy Preferences: Asia-Pacific vs. Western Markets",
+      "excerpt": "In the global confectionery market, gummy candy has evolved beyond being mere snacks; they are transforming into a medium that integrates functionality, sensory pleasure, and social appeal. However, for B2B procurement targeting different regions, understanding the geographical nuances in &#8220;flavor profiles&#8221; and &#8220;sensory experiences&#8221; is",
+      "date": "2026-04-28"
+    }
+  ],
+  "products": [
+    {
+      "slug": "wholesale-flower-gummies",
+      "title": "Wholesale Flower Gummies, Fruity Bloom-Shaped Soft Sweets",
+      "excerpt": "Welcome to purchase gummy candies. Our wholesale flower gummies combine vibrant fruit flavors with elegant floral shapes. Each bite brings a burst of fruity delight in a beautifully crafted form. Perfect for weddings, baby showers, or retail displays. Each bite brings a burst of fruity delight in a beautifully crafted "
+    },
+    {
+      "slug": "wholesale-shell-gummies",
+      "title": "Wholesale Shell Gummies, Colorful Fruit-Flavored Chewy Candy",
+      "excerpt": "Stock up on wholesale shell gummies! Vibrant, fruit-flavored, and shaped like seashells, they’re perfect for parties, retail, or kids’ treats. Soft, chewy, and visually appealing—ideal for bulk sales. Manufacturer LeChao Candy Product Type Gummy Shells Taste Sweet & Resilient MOQ 500CTN Sample Available Package Customi"
+    },
+    {
+      "slug": "wholesale-gummy-skulls",
+      "title": "Factory Wholesale Gummy Skulls, Fruity Halloween Candy",
+      "excerpt": "Stock up on wholesale gummy skulls for Halloween! Vibrant colors, fruity taste, and spooky design make them perfect for parties, retail, or bulk gifts. Soft, chewy, and fun for all ages. Manufacturer LeChao Candy Product Type Halloween Gummy Candy Taste Sweet & Resilient MOQ 500CTN Sample Available Package Customized"
+    },
+    {
+      "slug": "halloween-gummy-candy-bulk",
+      "title": "Halloween Gummy Candy Bulk, Sour Sugar Skull Shape Gummy",
+      "excerpt": "Welcome to order gummy candies at factory price. Halloween gummy candy bulk in spooky skull shapes, coated with tangy sour sugar. Perfect for parties, trick-or-treat, or retail. Fun, festive, and deliciously sour—kids and adults love them! Manufacturer LeChao Candy Product Type Sour Gummies, Halloween Candy Taste Sweet"
+    },
+    {
+      "slug": "bulk-soft-gummy-candy",
+      "title": "Grape Flavor Bulk Soft Gummy Candy with Chocolate Coating",
+      "excerpt": "Purchase premium grape flavor bulk soft gummy candy. These wholesale chewy sweets—featuring a delightful grape flavor—boast a striking blue-and-white marbled pattern, encasing a soft core filled with fresh, juicy grape essence. Manufacturer LeChao Candy Product Type Chocolate-Coated Gummies Taste Sweet & Resilient MOQ "
+    },
+    {
+      "slug": "halal-jelly-sweets-bulk",
+      "title": "Orange Flavor Halal Jelly Sweets Bulk Gummy Candy Wholesale",
+      "excerpt": "Premium orange flavor halal jelly sweets bulk. Our high-quality wholesale gummy candy is crafted specifically for the global wholesale market, utilizing a premium Halal-compliant formula. A vibrant, eye-catching orange pattern encases a chewy, soft interior, exuding a rich, natural fruit aroma. Manufacturer LeChao Cand"
+    },
+    {
+      "slug": "bulk-soft-sweets",
+      "title": "Strawberry Bulk Soft Sweets With White Chocolate Coating",
+      "excerpt": "Discover premium bulk soft sweets featuring a juicy strawberry gummy core and creamy white chocolate coating are a popular choice in the global bulk snack and holiday gift markets. Manufacturer LeChao Candy Product Type Chocolate-Coated Gummies Taste Sweet & Resilient MOQ 500CTN Sample Available Package Customized"
+    },
+    {
+      "slug": "soft-sweets-wholesale",
+      "title": "Green Apple Soft Sweets Wholesale, White Chocolate Coating",
+      "excerpt": "Looking for premium soft sweets wholesale? Our green apple gummies feature a rich white chocolate coating and crisp topping. The fruity and milky aromas blend perfectly, making it sweet but not cloying, ideal for B2B wholesalers, bulk snack shops, and gift sets. Manufacturer LeChao Candy Product Type Chocolate-Coated G"
+    },
+    {
+      "slug": "chewy-candy-wholesale",
+      "title": "Lechao Chewy Candy Wholesale, Bulk Sour Watermelon Gummies",
+      "excerpt": "Welcome to bulk buy gummy candies! This watermelon-flavored Chewy Candy wholesale features a watermelon shape with red, green, and white stripes. Its sweet and sour taste, combined with a unique sugar coating, makes it a popular snack. Manufacturer LeChao Candy Product Type Sour Gummies Taste Sweet & Sour & Resilient S"
+    },
+    {
+      "slug": "soft-candy-bulk",
+      "title": "Gummy Grapes Soft Candy Bulk, 120g Pack Sour Chewy Candy",
+      "excerpt": "Welcome to purchase wholesale chewy candies. Our grape-flavored soft candy bulk features alternating grape shapes, offering a sweet and sour taste with a unique sugar coating, making it a popular snack. Manufacturer LeChao Candy Product Type Sour Gummies Taste Sweet & Sour & Resilient Specification 120gX48bags Carton S"
+    },
+    {
+      "slug": "wholesale-chewy-candies",
+      "title": "Lechao Wholesale Chewy Candies, 120g Strawberry Gummies",
+      "excerpt": "Welcome to purchase wholesale chewy candies. This 120g pack of sour strawberry-flavored gummy candies features a sweet and sour taste with a unique sugar coating, making it a popular snack. Manufacturer LeChao Candy Product Type Sour Gummies Taste Sweet & Sour & Resilient Specification 120gX48bags Carton Size 39*26*24C"
+    },
+    {
+      "slug": "wholesale-crunchy-gummy-ropes",
+      "title": "Wholesale Crunchy Gummy Ropes, Fruit Flavored Colorful Candy",
+      "excerpt": "Welcome to purchase chewy gummies in bulk. Our wholesale crunchy gummy ropes are coated with colorful, crisp sugar beads and filled with a soft, fruity filling, showcasing vibrant red, yellow, green, and blue hues for a rich and layered texture. Manufacturer LeChao Candy Product Type Nonpareil Gummy Taste Sweet & Sour "
+    },
+    {
+      "slug": "gummy-candies-bulk",
+      "title": "Colorful Egg-Shaped Gummy Candies Bulk Supply for Parties",
+      "excerpt": "Welcome to purchase wholesale chewy gummy candies. Our spotted egg-shaped gummy candies bulk features vibrant colors and a chewy texture, adorned with colorful frosting spots and filled with a filling. Manufacturer LeChao Candy Product Type Chocolate-Coated Gummies Taste Sweet & Resilient MOQ 500CTN Sample Available Pa"
+    },
+    {
+      "slug": "orange-gummies-bulk",
+      "title": "Lechao 120g Sour Orange Gummies Bulk, Fruity and Refreshing",
+      "excerpt": "Welcome to purchase wholesale chewy candies! LeChao Sour Orange Gummies Bulk are coated in fine sugar crystals for extra sweetness and sourness, with the added benefit of a refreshing fruity taste. The 120g bags are convenient for storage and distribution. Manufacturer LeChao Candy Product Type Sour Gummies Taste Sweet"
+    },
+    {
+      "slug": "gummy-hearts-in-bulk",
+      "title": "Two-Tone Gummy Hearts in Bulk, Sour Peach Soft Candies",
+      "excerpt": "Welcome to purchase gummy hearts in bulk! LeChao Peach-flavored wholesale sour gummies feature a two-tone heart shape coated with a light sprinkle of sugar for added texture and flavor. Manufacturer LeChao Candy Product Type Sour Gummies Taste Sweet & Sour & Resilient Specification 120gX48bags Carton Size 39*26*24CM N."
+    },
+    {
+      "slug": "wholesale-crunchy-gummy-rings",
+      "title": "Wholesale Crunchy Gummy Rings, Bulk Crispy Chewy Candies",
+      "excerpt": "Welcome to our wholesale nonpareil gummies! Our wholesale crunchy gummy rings offer a unique &#8220;crispy outside, chewy inside&#8221; texture. Available in a variety of fruit flavor combinations including blue, green, orange, and white, they are as vibrant as a rainbow. Manufacturer LeChao Candy Product Type Nonparei"
+    },
+    {
+      "slug": "wholesale-crunchy-gummies",
+      "title": "LeChao Wholesale Crunchy Gummies, Colorful Nonpareil Gummy",
+      "excerpt": "Welcome to purchase wholesale crunchy gummies. Our colorful nonpareil gummies are characterized by their rich and bright color combinations and small, round shape, making them suitable for various leisure, festive, and event occasions. Manufacturer LeChao Candy Product Type Nonpareil Gummy Taste Sweet & Sour & Crispy P"
+    },
+    {
+      "slug": "bulk-gummy-hearts",
+      "title": "LeChao Bulk Gummy Hearts, Wholesale Crunchy Gummies",
+      "excerpt": "Welcome to purchase wholesale crunchy gummies. Our bulk gummy hearts are evenly coated with colorful sugar beads, offering a crunchy exterior and a soft, chewy interior, combining a variety of refreshing fruit flavors. Manufacturer LeChao Candy Product Type Nonpareil Gummy Taste Sweet & Sour & Crispy Package Bulk Pack,"
+    },
+    {
+      "slug": "wholesale-nonpareil-gummy-rope",
+      "title": "Halal Wholesale Nonpareil Gummy Rope, Crunchy Gummy Worms",
+      "excerpt": "Welcome to purchase crunchy gummy candies in bulk. These Halal-certified wholesale nonpareil gummy ropes come in a variety of fruit flavors or can be customized upon request. They offer a crispy texture suitable for all consumers. They are dextrose-free, pork-free, alcohol-free, and low-fat for a healthy snack. Manufac"
+    },
+    {
+      "slug": "crunchy-gummy-candy-wholesale",
+      "title": "LeChao Rainbow Crunchy Gummy Candy Wholesale 80g Pack",
+      "excerpt": "Welcome to purchase nonpareils gummies in bulk. LeChao's rainbow crunchy gummy candy wholesale combine the unique texture of crispy grains and chewy soft candies, paired with vibrant colours and a variety of fruit flavours, making them highly competitive in the market. Manufacturer LeChao Candy Product Type Nonpareils "
+    },
+    {
+      "slug": "nonpareils-gummies-bulk",
+      "title": "Nonpareils Gummies Bulk, Wholesale Crunchy Gummy Candy",
+      "excerpt": "Welcome to purchase wholesale gummy candies. Our rainbow nonpareils gummies bulk combines the chewy taste of fruit-flavored gummy candies with the crispy taste of the outer layer of sugar coating. It is colorful and rich in taste, making it an ideal choice for snack shops, candy stalls and mixed candy jars. Manufacture"
+    },
+    {
+      "slug": "wholesale-berry-gummies",
+      "title": "Wholesale Berry Gummies, Crunchy Candy With Gummy Center",
+      "excerpt": "Welcome to purchase bulk crunchy gummy candies. Our wholesale berry gummies combine fruity gummy candies with crunchy sugar coating to create a unique texture that is crunchy on the outside and soft on the inside with rich and charming berry flavor. Manufacturer LeChao Candy Product Type Nonpareils Gummies Taste Sweet "
+    },
+    {
+      "slug": "bulk-gummy-rings",
+      "title": "Factory Direct Fruity Bulk Gummy Rings With Custom Packaging",
+      "excerpt": "Welcome to purchase wholesale chewy candies. Our factory-direct bulk gummy rings are carefully crafted with a high-quality formula, offering a soft and chewy texture and a fresh, natural fruit flavor. They feature a classic ring shape and come in a variety of vibrant colors. Manufacturer LeChao Candy Product Type Gummy"
+    },
+    {
+      "slug": "bulk-halloween-candy",
+      "title": "LeChao Bulk Halloween Candy, Halloween Gummy Body Parts",
+      "excerpt": "Welcome to purchase bulk Halloween candy. Our wholesale gummy body parts are inspired by creative designs such as hands, feet, and eyeballs, and come in a variety of fruit flavors. They are realistic yet fun! Manufacturer LeChao Candy Product Type Gummy Body Parts Taste Sweet & Sour & Resilient Specification 10gx30pcsx"
+    },
+    {
+      "slug": "wholesale-gummy-worms",
+      "title": "LeChao Wholesale Gummy Worms, Colorful Fruity Soft Candies",
+      "excerpt": "Welcome to purchase soft candies in bulk. LeChao's wholesale gummy worms are made with finest quality ingredients to give you a soft and chewy consistency that provides generous fruit flavors and delightful colors. Manufacturer LeChao Candy Product Type Gummy Worms Taste Sweet & Sour & Resilient Specification 1kgx10bag"
+    },
+    {
+      "slug": "bulk-licorice-candy",
+      "title": "LeChao Bulk Licorice Candy, Red & Black Licorice Twists",
+      "excerpt": "Welcome to purchase bulk licorice candy. Our wholesale licorice twists include classic red and black licorice twists, made with carefully selected high-quality ingredients, offering a unique taste suitable for various occasions and consumer needs. Manufacturer LeChao Candy Product Type Red & Black Licorice Twists Taste"
+    },
+    {
+      "slug": "bulk-vitamin-c-gummies",
+      "title": "Apple Flavor Bulk Vitamin C Gummies, Support Custom Package",
+      "excerpt": "Welcome to purchase bulk Vitamin C gummies. Our apple-flavored wholesale gummy candy with added Vitamin C is elastic in texture. We also offer customizable packaging, taste, and branding for your purchase. Manufacturer LeChao Candy Product Type Apple Vitamin C Gummy Candy Taste Sweet & Sour & Resilient Specification 68"
+    },
+    {
+      "slug": "wholesale-vitamin-c-gummy",
+      "title": "Sweet Orange Flavor Wholesale Vitamin C Gummy Candies",
+      "excerpt": "Welcome to bulk order gummy sweets! Our wholesale orange-flavored vitamin C gummies come with a sparkling sugar dusting, a satisfyingly chewy bite, and a bright balance of sweet and tangy. Each gummy is boosted with Vitamin C, giving you a tasty treat plus a little nutritional lift. Manufacturer LeChao Candy Product Ty"
+    },
+    {
+      "slug": "wholesale-rainbow-gummies",
+      "title": "LeChao Wholesale Rainbow Gummies, Bulk Pack Sour Belt Bites",
+      "excerpt": "Welcome to order our wholesale rainbow gummies. Our rainbow belt bites offer a chewy and fun texture in bulk. We provide a one-stop wholesale service from production to packaging, making us the ideal choice for capturing market share. Manufacturer LeChao Candy Product Type Rainbow Sour Belts Taste Sweet & Sour & Resili"
+    },
+    {
+      "slug": "sour-power-belts-bulk",
+      "title": "LeChao Sour Power Belts Bulk, Rainbow Strips Wholesale",
+      "excerpt": "Welcome to purchase sour power belts bulk. Our wholesale rainbow strips are coated with glistening icing, offering a unique sweet and sour balance. Customizable packaging makes them an indispensable eye-catching addition to your shelf. Manufacturer LeChao Candy Product Type Rainbow Sour Belts Taste Sweet & Sour & Resil"
+    }
+  ]
+}

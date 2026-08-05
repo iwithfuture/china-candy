@@ -1,0 +1,9 @@
+node_modules/
+dist/
+.npm-cache/
+.npmrc
+.vercel/
+captures/
+source-*.html
+.DS_Store
+Thumbs.db
